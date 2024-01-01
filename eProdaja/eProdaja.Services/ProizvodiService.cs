@@ -20,7 +20,7 @@ namespace eProdaja.Services
             new Model.Proizvodi()
             {
                 ProizvodId=1,
-                Naziv="Laptop"
+                Naziv="Laptopi"
             }
         };
         public IList<Model.Proizvodi> Get()
